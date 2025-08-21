@@ -1025,4 +1025,5 @@ public class WalletAppGUI extends JFrame {
             app.setVisible(true);
         });
     }
+// these our project 
 }
